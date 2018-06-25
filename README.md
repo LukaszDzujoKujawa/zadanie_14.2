@@ -1,4 +1,5 @@
-Simple Page about movies
+At the Movies page
+====================
 
 Simple page with basic information considering movies. Site creating using React library as a testing ground
 
