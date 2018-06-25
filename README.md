@@ -1,22 +1,35 @@
-Muilti Threaded Socket Server based on pcntl_fork()
-====================
-Examaple created for http://systemsarchitect.net/multi-threaded-socket-server-in-php-with-fork/
+Simple Page about movies
 
+Simple page with basic information considering movies. Site creating using React library as a testing ground
+
+Basic background
+---------------------
+Page created with HTML, JavaScript and React library
 
 Requirements
 ---------------------
-> PHP5	
->
-> sockets (http://www.php.net/manual/en/sockets.installation.php)
->
-> pcntl (http://www.php.net/manual/en/pcntl.installation.php)
+Up-to-date browser supporting React and JS, Internet connection:)
 
-Installation
+Tools Used
 ---------------------
-> git clone https://github.com/lukaszkujawa/php-multithreaded-socket-server.git
+Sublime Text Editor,  GitBash, Instructions included on Kodilla’s webpage 
 
-Run
+Additional Information
 ---------------------
-> php server.php
->
-> telnet 127.0.0.1 4444
+None 
+
+Contributor
+---------------------
+Lukasz Kujawa
+
+     |     | |
+    / \    | |
+   |-0-|===|-|
+   |---|   | |
+  /     \  | |
+ | P     | | |
+ | O     |=| |
+ | L     | | |
+ |_______| |_|
+  |@| |@|  | |
+___________|_|_
