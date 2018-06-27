@@ -33,7 +33,7 @@ var moviesElements = movies.map(function (movie) {
   return React.createElement('li', {key: movie.id},
     React.createElement('h2', {}, movie.title),
     React.createElement('p', {}, movie.desc),
-    React.createElement('img', { src: movie.poster, width: 182})
+    React.createElement('img', { src: movie.poster, style:{width:"182px"}})
   );
 });
 
